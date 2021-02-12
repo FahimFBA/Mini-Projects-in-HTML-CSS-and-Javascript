@@ -1,4 +1,4 @@
-# 50 Projects in HTML CSS and Javascript
+# 50 Mini Projects in HTML CSS and Javascript
 
 ### Used Software:
 
