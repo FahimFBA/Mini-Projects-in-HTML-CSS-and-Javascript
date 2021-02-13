@@ -1,8 +1,7 @@
  <h1 align="center"> 50 Mini Projects in HTML CSS and Javascript </h1>
- 
+
  <hr>
 
- ![GitHub All Releases](https://img.shields.io/github/downloads/lewdev/hw-gen/total)
 
 
 
