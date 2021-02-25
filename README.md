@@ -26,3 +26,4 @@
 1. Expandable Cards: [Live Demo](https://distracted-kepler-d186df.netlify.app)
 2. Progress Step Bars:
    [Live Demo](https://infallible-brattain-6d5102.netlify.app/)
+3. Rotating Navigation: [Live Demo](https://jolly-wilson-e155a4.netlify.app/)
