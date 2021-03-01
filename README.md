@@ -1,4 +1,4 @@
- <h1 align="center"> 50 Mini Projects in HTML CSS and Javascript </h1>
+ <h1 align="center">  Mini Projects in HTML CSS and Javascript </h1>
 
  <hr>
 
