@@ -28,3 +28,4 @@
    [Live Demo](https://infallible-brattain-6d5102.netlify.app/)
 3. Rotating Navigation: [Live Demo](https://jolly-wilson-e155a4.netlify.app/)
 4. Hidden Search Widget: [Live Demo](https://loving-curie-166a7d.netlify.app/)
+5. Blurry Loading Page: [Live Demo](https://practical-kowalevski-a028aa.netlify.app/)
