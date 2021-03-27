@@ -30,3 +30,4 @@
 4. Hidden Search Widget: [Live Demo](https://loving-curie-166a7d.netlify.app/)
 5. Blurry Loading Page: [Live Demo](https://practical-kowalevski-a028aa.netlify.app/)
 6. Scrolling Animation: [Live Demo](https://objective-bohr-df6ca0.netlify.app/)
+7. Split The Landing Page: [Live Demo](https://gifted-cray-f612ff.netlify.app/)
