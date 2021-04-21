@@ -31,3 +31,4 @@
 5. Blurry Loading Page: [Live Demo](https://practical-kowalevski-a028aa.netlify.app/)
 6. Scrolling Animation: [Live Demo](https://objective-bohr-df6ca0.netlify.app/)
 7. Split The Landing Page: [Live Demo](https://gifted-cray-f612ff.netlify.app/)
+8. Animated Waving Form: [Live Demo](https://priceless-leavitt-184bff.netlify.app/)
