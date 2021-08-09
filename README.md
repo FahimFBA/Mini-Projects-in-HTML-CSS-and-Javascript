@@ -33,3 +33,4 @@
 7. Split The Landing Page: [Live Demo](https://gifted-cray-f612ff.netlify.app/)
 8. Animated Waving Form: [Live Demo](https://priceless-leavitt-184bff.netlify.app/)
 9. Sound Mini-Boards: [Live Demo](https://mini-projects-in-html-css-and-javascript.vercel.app/)
+10. Dad Jokes: [Live Demo](https://hungry-agnesi-c7f8a3.netlify.app/)
