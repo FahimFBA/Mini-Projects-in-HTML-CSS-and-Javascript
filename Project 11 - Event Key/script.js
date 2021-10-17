@@ -3,7 +3,7 @@ const insert = document.getElementById('insert')
 window.addEventListener('keydown', (event) => {
     insert.innerHTML = `
     <div class="key">
-    ${event.key === ' ' ? 'Space' : event.Key}
+    ${event.key === ' ' ? 'Space' : event.key}
     <small>event.Key</small>
 </div>
 
