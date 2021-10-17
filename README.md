@@ -26,7 +26,7 @@
 
 |  ID | Name   | Live Website  | Live Demo  |
 |---|---|---|---|
-| 01  |   Expandable Cards | [Website]((https://distracted-kepler-d186df.netlify.app))  | [YouTube Video](https://www.youtube.com/watch?v=OxRJniILojA&list=PLutHME8vSEnEoS_-5Cl8RMsH0aWnWbsci&index=2)  | 
+| 01  |   Expandable Cards | [Website](https://distracted-kepler-d186df.netlify.app)  | [YouTube Video](https://www.youtube.com/watch?v=OxRJniILojA&list=PLutHME8vSEnEoS_-5Cl8RMsH0aWnWbsci&index=2)  | 
 | 02  | Progress Step Bars  |  [Website](https://infallible-brattain-6d5102.netlify.app/)  | [YouTube Video](https://youtu.be/Jew-ydjswKs)     |
 |   |   |   |   |   |
 
