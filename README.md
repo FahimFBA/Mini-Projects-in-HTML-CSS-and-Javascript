@@ -1,13 +1,22 @@
- <h1 align="center">  Mini Projects in HTML CSS and Javascript </h1>
+#  Mini Projects in HTML, CSS and Javascript 
 
- <hr>
+<br>
 
 
+[![Tweet a thanks](https://img.shields.io/twitter/url?label=Tweet%20this%21&style=social&url=https%3A%2F%2Ftwitter.com%2FFahim_FBA)](https://twitter.com/intent/tweet?text=Wow!&url=https://github.com/FahimFBA/handle-codeforces)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/Fahim_FBA?style=social)](https://twitter.com/Fahim_FBA)
+
+
+![Language](https://img.shields.io/github/languages/count/FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript?style=for-the-badge)
+![Top Language](https://img.shields.io/github/languages/top/FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript?style=for-the-badge)
+![Code Size](https://img.shields.io/github/languages/code-size/FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript?color=red&style=for-the-badge)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript?color=bright&style=for-the-badge)
+![Lines of Code](https://img.shields.io/tokei/lines/github/FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript?color=blue&style=for-the-badge)
 
 
 ### Used Software:
 
-> VS Code & VS Code insider
+> VS Code / VS Code insider
 
 ### Used Extensions
 
@@ -18,10 +27,9 @@
 - Prettier - Code Formatter
 - Save Typing
 
-<hr>
+<br>
 
- <h2 align="center"> Projects name and results: </h2>
- <br><br><br>
+ ## PROJECTS 
 
 
 |  ID | Name   | Live Website  | Live Demo  |
