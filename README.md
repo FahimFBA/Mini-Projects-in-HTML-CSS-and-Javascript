@@ -2,7 +2,7 @@
 
 <br>
 
-[![Tweet a thanks](https://img.shields.io/twitter/url?label=Tweet%20this%21&style=social&url=https%3A%2F%2Ftwitter.com%2FFahim_FBA)](https://twitter.com/intent/tweet?text=Wow!&url=https://github.com/FahimFBA/handle-codeforces)
+[![Tweet a thanks](https://img.shields.io/twitter/url?label=Tweet%20this%21&style=social&url=https%3A%2F%2Ftwitter.com%2FFahim_FBA)](https://twitter.com/intent/tweet?text=Wow!&url=https://github.com/FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/Fahim_FBA?style=social)](https://twitter.com/Fahim_FBA)
 
 ![Language](https://img.shields.io/github/languages/count/FahimFBA/Mini-Projects-in-HTML-CSS-and-Javascript?style=for-the-badge)
