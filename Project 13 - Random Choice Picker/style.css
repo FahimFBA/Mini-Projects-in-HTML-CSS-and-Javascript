@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Muli:wght@400;700&display=swap');
 
 
 * {
@@ -7,7 +7,7 @@
 
 body {
     background-color: #2b88f0;
-    font-family: 'Roboto' , sans-serif;
+    font-family: 'Muli' , sans-serif;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -20,4 +20,5 @@ body {
 h3{
     color: #fff;
     margin: 10px 0 20px;
+
 }
