@@ -6,6 +6,7 @@
 }
 
 body {
+    background-color: #2b88f0;
     font-family: 'Roboto' , sans-serif;
     display: flex;
     flex-direction: column;
@@ -14,4 +15,9 @@ body {
     height: 100vh;
     overflow: hidden;
     margin: 0;
+}
+
+h3{
+    color: #fff;
+    margin: 10px 0 20px;
 }
