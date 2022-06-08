@@ -15,7 +15,7 @@
 
 > VS Code / VS Code insider
 
-### Used Extensions
+### Used Extensions (VS Code)
 
 - Emmet
 - Live Server
